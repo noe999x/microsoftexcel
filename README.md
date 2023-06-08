@@ -1,2 +1,2 @@
-# microsoftexcel
+# install ubuntu server
 -install ubuntu
